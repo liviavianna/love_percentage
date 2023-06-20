@@ -1,6 +1,5 @@
 from tkinter import *
 import requests
-import apikey
 
 
 bg_color = '#590d22'
