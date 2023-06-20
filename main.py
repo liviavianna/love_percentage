@@ -10,8 +10,6 @@ root.eval('tk::PlaceWindow . center')
 root.configure(background=bg_color)
 
 
-url = 'https://love-calculator.p.rapidapi.com/getPercentage'
-
 
 def margin(height):
     mg = Canvas(root, width=600, bg=bg_color, height=height,
